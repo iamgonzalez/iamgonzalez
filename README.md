@@ -1,10 +1,5 @@
-<!---
-- 👋 Hi, I’m @iamgonzalez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2 align="center">Olá 😄</h2>
 
-iamgonzalez/iamgonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="justify">
+Estudante de Sistemas de Informação pela Universidade Estácio de Sá (UNESA) — 2° período, estudante de Administração na Universidade Federal Rural do Rio de Janeiro (UFRRJ) — 9° período e licenciado em História pela Universidade Católica de Petrópolis (UCP), formação concluída no ano de 2016. Ao longo da minha formação acadêmica desenvolvi uma predileção por dados. Durante a minha primeira graduação, em História, fui seduzido pela análise de dados históricos, inerente a profissão de historiador. Posteriormente, o curso de administração me possibilitou a expertise na análise de dados financeiros e econômicos. Atualmente, o curso de Sistemas da Informação, me ensina como esquematizar estes dados e a extrair informações cruciais para o negócio, através das múltiplas possibilidades que a tecnologia cria, como linguagens de programação e suas infinitas bibliotecas. Neste sentido, acredito que minha capacidade analítica, a vontade de aperfeiçoamento constante e minha inquietude frente a novos desafios, são características que me fazem sobressair frente a diversos percalços.
+</p>
